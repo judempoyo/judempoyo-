@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web & mobile developpment 
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me mpoyojude0@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me : mpoyojude0@gmail.com
+- 😄 Pronouns: her
 - ⚡ Fun fact: ...
 
 <!---
