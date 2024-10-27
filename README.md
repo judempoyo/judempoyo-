@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jude</h1>
-<h3 align="center">A passionate web and mobile developer from Kolwezi</h3>
+<h3 align="left">A passionate web and mobile developer from Kolwezi</h3>
 <img src="https://img.freepik.com/free-vector/programmer-working-isometric-style_52683-16729.jpg?ga=GA1.1.1627035636.1714175660&semt=ais_hybrid" align="right" alt="coding" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judempoyo&label=Profile%20views&color=0e75b6&style=flat" alt="judempoyo" /> </p>
 
