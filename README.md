@@ -1,48 +1,101 @@
-<h1 align="center">Hi 👋, I'm Jude</h1>
-<h3 align="left">A passionate web and mobile developer from Kolwezi</h3>
+# 👋 Hi, I'm Jude Mpoyo — Web & Mobile Developer
+
+Welcome to my GitHub profile! I’m passionate about building robust, scalable web and mobile applications using modern technologies and clean code principles. Here you'll find my latest projects, my tech journey, and ways to connect or collaborate.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=judempoyo&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/judempoyo)
+[![Top Developer in DRC](https://user-badge.committers.top/congo_kinshasa/judempoyo.svg)](https://user-badge.committers.top/congo_kinshasa/judempoyo)
 
 
+---
 
+## 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=judempoyo&label=Profile%20views&color=0e75b6&style=flat" alt="judempoyo" /> </p>
+- 🌍 **Based in:** DR Congo  
+- 🛠️ **Expertise:** PHP, Laravel, Flutter, Vue.Js, C++, MySQL  
+- 🌱 **Currently learning:** Vue.Js & Docker  
+- 🤝 **Open to:** Collaboration on innovative web & mobile projects  
+- ⚡ **Philosophy:** "First solve the problem, then write the code."  
+- 📫 **Contact:** mpoyojude0@gmail.com | [WhatsApp](https://wa.me/+243975889135)  
 
+---
 
-- 🌱 I’m currently learning **Flutter, react**
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **Laravel, flutter,PHP,react**
-  
-- 😍 I love anime, reading and 💙code💙
+**Frontend:**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
+![Vue.Js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=white)
 
-- ⚡ Fun fact: Never let failures get you down. Every mistake is an opportunity to learn and improve.
+**Backend:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Filament](https://img.shields.io/badge/Filament-4E56A6?logo=filament&logoColor=white)
 
-- 📫 How to reach me **mpoyojude0@gmail.com**
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://wa.me/+243975889135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="jude-mpoyo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jude-mpoyo-4316642a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jude-mpoyo" height="30" width="40" /></a>
-<a href="https://fb.com/judemwanabute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jude mwanabute" height="30" width="40" /></a>
-<a href="https://instagram.com/judemwanabute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jude mwanabute" height="30" width="40" /></a>
-</p>
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <!-- Vs Code -->
-   <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" >
-   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-</a> 
- <!-- Ubuntu -->
-   <a href="https://ubuntu.com/" >
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=judempoyo&show_icons=true&locale=en&layout=compact" alt="judempoyo" /></p>
+---
 
-<h3>🔥 Statistics :</h3>
+## 🏆 Achievements & Stats
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=judempoyo&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" alt="Trophies" width="100%">
+</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=judempoyo&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=judempoyo&theme=vue-dark&hide_border=true)](https://github.com/judempoyo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judempoyo&theme=vue-dark&hide_border=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judempoyo&show_icons=true&locale=en" alt="judempoyo" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=judempoyo" alt="judempoyo" /></a> </p>
+---
+
+## 🌟 Featured Projects
+
+- **Portfolio Website**  
+  [judempoyo.vercel.app](https://judempoyo.vercel.app)  
+  _A showcase of my skills, projects, and journey in web development._
+
+- **Explore more projects:**  
+  - [See my repositories](https://github.com/judempoyo?tab=repositories)
+
+---
+
+## 🤝 How to Collaborate
+
+- Interested in working together?  
+  - Check out my [ideas.md](https://github.com/judempoyo/JudeMpoyo/blob/main/ideas.md) for project ideas or propose your own!
+  - Found a bug or want to discuss? [Open an issue](https://github.com/judempoyo/JudeMpoyo/issues)
+- Contributions, discussions, and feedback are always welcome !
+
+---
+
+## 📫 Let's Connect!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/+243975889135)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jude-mpoyo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/judemwanabute)
+[![Email](https://img.shields.io/badge/Email_me-mpoyojude0@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mpoyojude0@gmail.com)
+
+---
+
+## ⭐️ Show Your Support
+
+If you find my work inspiring or helpful, please consider giving my repositories a ⭐️ star!  
+Have suggestions or want to collaborate? [Let's talk!](mailto:mpoyojude0@gmail.com)
+
+---
+
+## 📄 License
+
+All my open-source projects are available under the  [MIT LICENSE](LICENSE) — see individual repos for details.
